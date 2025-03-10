@@ -1,0 +1,16 @@
+{
+"companyName": "World Driving",
+"productName": "Indian Cars Simulator 3D",
+"productVersion": "1.0.6",
+"dataUrl": "768ab944d6e11de4f07c285a5ad77313.unityweb",
+"wasmCodeUrl": "e806b3fdbf35ea749db9a335215f98bc.unityweb",
+"wasmFrameworkUrl": "d7ae944bd4e4299bea9d70bd5a1f829a.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.40f1"
+}
